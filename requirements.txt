@@ -1,0 +1,7 @@
+
+fastapi
+uvicorn
+aiofiles
+httptools
+gunicorn==19.9.0
+uvloop
